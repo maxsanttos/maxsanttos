@@ -21,7 +21,7 @@
 
 
 ## My Skills
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 
 <!--
 **maxsanttos/maxsanttos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
