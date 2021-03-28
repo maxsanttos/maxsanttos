@@ -7,7 +7,7 @@
 * I'm a software engineering student :man_technologist: 
 ## Connect with me:
 <a href=https://www.linkedin.com/in/maxsuelsanttos/ target="_blank">
-<img align="center" alt="maxsanttos-linkedin" height="30" width="40" src="devicon-linkedin-plain colored" style="max-width:100%;">
+<img align="center" alt="maxsanttos-linkedin" height="30" width="40" src="devicon-linkedin-plain"style="max-width:100%;">
 </a>
 
 <!--
