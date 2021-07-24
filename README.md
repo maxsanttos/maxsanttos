@@ -3,7 +3,6 @@
 **I'm Max Santtos**
 
 * I live Brazil, Itapetinga Bahia :brazil: :sunglasses:
-* I have been working on Macaran City Radio :radio: :microphone: :headphones:
 * I'm a software engineering student :man_technologist: 
 * I have been learnig more about Javascript
 ## Connect with me:
