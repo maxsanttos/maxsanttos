@@ -4,6 +4,7 @@
 
 * I live Brazil, Itapetinga Bahia :brazil: :sunglasses:
 * I'm a software engineering student :man_technologist: 
+* Just a boy who loves programming
 * I have been learnig more about Javascript
 ## Connect with me:
 <a href="https://www.linkedin.com/in/maxsuelsanttos/" target="_blank">
