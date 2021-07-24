@@ -2,7 +2,7 @@
 
 **I'm Max Santtos**
 
-* I live Brazil, Itapetinga Bahia :brazil: :sunglasses:
+* I live Brazil, Itapetinga :brazil: :sunglasses:
 * I'm a software engineering student :man_technologist: 
 * Just a boy who loves programming
 * I have been learnig more about Javascript
