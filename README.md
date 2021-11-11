@@ -29,7 +29,7 @@
  
 ![maxsanttos's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&theme=radical)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMotton&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsuelsanttos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <!--
