@@ -5,7 +5,7 @@
 * I live Brazil, Itapetinga :brazil: :sunglasses:
 * I'm a software engineering student :man_technologist: 
 * Just a boy who loves programming
-* I have been learnig more about Javascript
+* I have been learnig more about Java
 ## Connect with me:
 <a href="https://www.linkedin.com/in/maxsuelsanttos/" target="_blank">
 <img align="center" alt="diego-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
