@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-**I'm Max Santtos**
+## I'm Max Santtos
 
 * I live Brazil, Itapetinga :brazil: :sunglasses:
 * I'm a software engineering student :man_technologist: 
 * Just a boy who loves programming
-* I have been learnig more about Java
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/maxsuelsanttos/" target="_blank">
 <img align="center" alt="diego-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
@@ -19,8 +19,9 @@
 </a>
 
 
-
 ## My Skills
+<div style="display: inline_block"><br>
+  <img align="center" alt="Henri-Nodejs" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="max-width:100%;"></img>
