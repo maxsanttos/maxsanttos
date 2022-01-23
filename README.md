@@ -4,7 +4,7 @@
 
 * I live Brazil, Itapetinga :brazil: :sunglasses:
 * I'm a software engineering student :man_technologist: 
-* Just a boy who loves programming
+* Currently Junior Developer at GR1D
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/maxsuelsanttos/" target="_blank">
