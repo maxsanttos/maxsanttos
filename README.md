@@ -27,8 +27,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="github" width="40" height="40" style="max-width:100%;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="github" height="40" width="40"style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="gitub" height="40" width="40"style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="github"width="40"height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="gitub" width="40" height="40" style="max-width:100%;"></img>
+
 ![maxsanttos's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&theme=radical)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsanttos&layout=compact&langs_count=7&theme=tokyonight"/>
