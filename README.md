@@ -18,6 +18,9 @@
 <img align="center" alt="maxSanttos-Twitter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%;">
 </a>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="maxsanttos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 ## My Skills
 
@@ -37,7 +40,5 @@
 <!--
 **maxsanttos/maxsanttos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
 
