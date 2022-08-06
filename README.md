@@ -17,6 +17,9 @@
 <a href="https://twitter.com/Santtos2Ms" target="_blank">
 <img align="center" alt="maxSanttos-Twitter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%;">
 </a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 ## My Skills
 
