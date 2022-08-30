@@ -28,13 +28,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 
-![maxsanttos's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&theme=radical)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsanttos&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<!--
-**maxsanttos/maxsanttos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
