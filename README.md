@@ -28,6 +28,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 
-
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&hide=[%22issues%22]&theme=dark)
 
 
