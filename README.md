@@ -18,6 +18,8 @@
 <img align="center" alt="maxSanttos-Twitter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%;">
 </a>
 
+<br>
+
 ## My Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
@@ -28,6 +30,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 
+<br>
+
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&hide=[%22issues%22]&theme=dark)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsanttos&layout=compact)](https://github.com/LucasLuccaCode/github-readme-stats)
 
 
