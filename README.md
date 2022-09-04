@@ -35,6 +35,6 @@
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&hide=[%22issues%22]&theme=dark)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsanttos&layout=compact)](https://github.com/LucasLuccaCode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsanttos&layout=compact)](https://github.com/LucasLuccaCode/github-readme-stats&theme=dark)
 
 
