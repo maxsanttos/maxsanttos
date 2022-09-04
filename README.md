@@ -4,6 +4,7 @@
 
 * I live Brazil, Itapetinga :brazil: :sunglasses:
 * I'm a software engineering student :man_technologist: 
+* Studying Java :man_technologist: 
 
 
 ## Connect with me:
@@ -34,7 +35,6 @@
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&hide=[%22issues%22]&theme=dark)
 <br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsanttos&layout=compact)](https://github.com/maxsanttos/github-readme-stats)
 
 
