@@ -4,7 +4,7 @@
 
 * I live Brazil, Itapetinga :brazil: :sunglasses:
 * I'm a software engineering student :man_technologist: 
-* Studying Java :man_technologist: 
+* jr java developer :man_technologist: 
 
 ## My Skills
 
