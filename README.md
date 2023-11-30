@@ -54,7 +54,7 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=maxsanttosropo&theme=react&hide_border=false"/>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=maxsanttos&theme=react&hide_border=false"/>
         <a href="https://github.com/maxsanttos">
         <img height="170px" src="https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
       </td>
