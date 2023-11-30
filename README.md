@@ -3,7 +3,7 @@
 <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      Hello there! I am a<strong>Java programmer</strong> currently studying the last semester of my bachelor's degree in <strong>Software Engineering</strong>.
+      Hello there! I am a <strong>Java programmer</strong> currently studying the last semester of my bachelor's degree in <strong>Software Engineering</strong>.
 </p>
 
 <p align="left">
