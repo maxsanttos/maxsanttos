@@ -1,23 +1,19 @@
-### Hello World :earth_americas:
+# Max Suel Santtos
 
-## I'm Max Santtos
+<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-* I live Brazil, Itapetinga :brazil: :sunglasses:
-* I'm a software engineering student :man_technologist: 
-* Passionate about technology
-* jr java developer :man_technologist: 
+<p align="left"> 
+      Hello there! I'm  aspiring <strong>Java developer</strong> currently pursuing a degree in <strong>Software Engineering</strong>.
+</p>
 
-## My Skills
+<p align="left">
+  🕑 I'm Learning: <strong>Spring Boot (Udemy),Angular,TypeScript</strong>
+</p>
 
-<div>
- <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Max-Java" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="center" alt="Max-mysql" height="150" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="Max-Linux" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
+<p align="left">
+ <strong>You can find me on:<strong>
+</p>
+
 <div>
   <a href="https://github.com/maxsanttos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,8 +29,41 @@
 <a href="https://www.linkedin.com/in/maxsuelsanttos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://dev.to/maxsanttos" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/maxsanttos/maxsanttos/blob/output/github-contribution-grid-snake.svg)
+</div>
 
+<strong>My Skills:<strong>
+  
+ <details>
+    <summary>Languages</summary>
+    
+  ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
+  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+  ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
+  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+  </details>
+  <details>
+    <summary>Tools</summary>
+    
+  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+  ![Flask](https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask)
+  ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
+  ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
+  </details>
+  
+# My Status
+
+<div>
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=sandypiropo&theme=react&hide_border=false"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=react&count_private=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
