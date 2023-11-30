@@ -13,22 +13,22 @@
 <p align="left">
  <strong>You can find me on:<strong>
 </p>
+<p align="left">
+<a href="mailto:sandypiropodev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:maxsuelsanttos3@gmail.com" />
+</a>
 
-<div>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsanttos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<a href="https://discord.gg/Rimura#3430" alt="Discord">
+  <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
+</a>
 
+<a href="https://twitter.com/Santtos2Ms" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
+</a>
 
-## Contact me!
-
-<div>
-<a href="https://discord.gg/Rimura#3430" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:maxsuelsanttos3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maxsuelsanttos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://dev.to/maxsanttos" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
-
-</div>
+<a href="https://www.linkedin.com/in/maxsuelsanttos/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+</a>
 
 <strong>My Skills:<strong>
   
