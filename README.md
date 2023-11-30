@@ -15,8 +15,7 @@
 </p>
 
 <div>
-  <a href="https://github.com/maxsanttos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsanttos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -46,8 +45,6 @@
     <summary>Tools</summary>
     
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
-  ![Flask](https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask)
-  ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
   </details>
   
@@ -58,6 +55,8 @@
     <tr>
       <td>
         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=sandypiropo&theme=react&hide_border=false"/>
+        <a href="https://github.com/maxsanttos">
+        <img height="170px" src="https://github-readme-streak-stats.app/api?username=maxsanttos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       </td>
       <td>
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=react&count_private=true"/>
