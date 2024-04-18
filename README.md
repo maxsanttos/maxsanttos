@@ -1,8 +1,9 @@
 # Max Suel Santtos
 
+
 <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-<p align="left"> 
+<p align="left">
       Hello there! I am a <strong>Java programmer</strong> currently studying the last semester of my bachelor's degree in <strong>Software Engineering</strong>.
 </p>
 
@@ -31,28 +32,29 @@
 </a>
 
 <strong>My Skills:<strong>
-  
+
  <details>
     <summary>Languages</summary>
-    
+
   ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+  ![Sping](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   </details>
-  
+
   <details>
     <summary>Tools</summary>
-    
+
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   </details>
-  
+
 # My Status
 
 <div>
