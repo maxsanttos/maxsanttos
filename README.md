@@ -4,12 +4,17 @@
 <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left">
-      Hello there! I am a <strong>Java programmer</strong> currently studying the last semester of my bachelor's degree in <strong>Software Engineering</strong>.
+      Hello there! I am a <strong>Java developer</strong> with a degree in <strong>Software Engineering</strong>, currently pursuing a postgraduate degree in <strong>Java Systems Development</strong>.
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong>Spring Boot (Udemy),Angular,TypeScript</strong>
+      🕑 I'm expanding my full-stack skills with a focus on <strong>Spring Boot</strong> for backend and <strong>Angular</strong> with <strong>TypeScript</strong> for frontend, through an advanced Udemy course. I have experience in developing backend applications using Java and its core technologies.
 </p>
+
+<p align="left">
+      🚀 I am always eager to learn new technologies and improve my development practices, aiming to build robust and scalable solutions.
+</p>
+
 
 <p align="left">
  <strong>You can find me on:<strong>
