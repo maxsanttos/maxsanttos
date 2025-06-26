@@ -36,10 +36,10 @@
   <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
 </a>
 
-<strong>My Skills:<strong>
+# My Skills
 
- <details>
-    <summary>Languages</summary>
+
+### Languages
 
   ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
@@ -49,16 +49,16 @@
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  </details>
 
-  <details>
-    <summary>Tools</summary>
+
+
+### Tools
 
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  </details>
+
 
 # My Status
 
