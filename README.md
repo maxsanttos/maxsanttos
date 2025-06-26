@@ -63,17 +63,17 @@
 # My Status
 
 <div>
-  <table style="margin: 0 auto;" align="center">
-    <tr>
-      <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=maxsanttos&theme=react&hide_border=false"/>
-        <a href="https://github.com/maxsanttos">
-      </td>
-      <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsanttos&layout=compact&theme=react&count_private=true"/>
-      </td>
-    </tr>
-  </table>
+ <div align="center">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=maxsanttos&theme=react&line_height=20&hide=css&count_private=true"/>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=maxsanttos&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"        
+/>
 </div>
 
 
